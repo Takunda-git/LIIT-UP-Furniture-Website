@@ -1,0 +1,48 @@
+# LIIT UP Furniture Website 🪑
+
+LIIT UP is a modern, user-friendly furniture website designed as part of a personal project to demonstrate my understanding of **HTML**, **CSS**, and **JavaScript**. The concept was inspired by the need to bring furniture shopping online — especially for customers living far from physical branches — by offering a digital solution where quality meets convenience.
+
+## 🌟 Project Purpose
+
+This website was created to:
+
+- Apply and practice frontend web development skills (HTML, CSS, JS)
+- Simulate a real-world ecommerce furniture site
+- Solve common customer pain points in the furniture industry
+
+## 🛠️ Tech Stack
+
+- **HTML5** – for structure
+- **CSS3** – for layout and visual design
+- **JavaScript** – for basic interactivity and enhancements
+
+## 🪑 About LIIT UP
+
+There are many furniture stores around the world, but **LIIT UP** stands out by solving one of the most frustrating customer problems: **fake or poor-quality furniture**. 
+
+LIIT UP is dedicated to:
+
+- Providing **authentic, high-quality furniture**
+- Offering **affordable prices**
+- Supplying **a wide range of products** — from everyday essentials to aesthetic, finely-crafted pieces
+- Making it easier for customers far from physical stores to browse and order online
+
+## 🖥️ Features
+
+- Clean and responsive design
+- Easy-to-navigate product listings
+- High-quality imagery and descriptions
+- Vision for potential integration with ordering or cart systems
+
+## 🔮 Future Improvements
+
+- Checkout functionality
+- Integrate with a backend (Node.js or Firebase)
+- Add user login, filtering, and sorting
+-
+
+## 📌 Inspiration
+
+The idea was inspired by the **TV & Sales** website, which effectively caters to remote customers needing easy access to a wide variety of products. LIIT UP follows that same vision — combining accessibility with excellence.
+
+Feel free to clone, explore, or contribute ideas for improvement!
